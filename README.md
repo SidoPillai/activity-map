@@ -1,6 +1,4 @@
 # activity-map
 
-Display Activity Map
-
-## Screenshots
-[Screenshot_20240116_104734.png](Screenshot_20240116_104734.png)
+- Blog - https://sidopillai.dev/activity-map/
+- [Screenshot_20240116_104734.png](Screenshot_20240116_104734.png)
